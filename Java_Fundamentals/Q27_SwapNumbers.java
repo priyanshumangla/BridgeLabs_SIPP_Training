@@ -8,7 +8,7 @@ public class Q27_SwapNumbers {
             a = b;
             b = temp;
             System.out.println("The swapped numbers are " + a + " and " + b);
-        
+        input.close();
         
     }
 }
